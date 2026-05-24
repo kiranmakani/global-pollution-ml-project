@@ -1,0 +1,6 @@
+Preprocessing Method,Accuracy
+No Scaling,1.0
+StandardScaler,1.0
+MinMaxScaler,0.9997138769670959
+PCA,0.9567954220314735
+Outlier Removal,1.0
